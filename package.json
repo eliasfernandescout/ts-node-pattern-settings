@@ -1,0 +1,11 @@
+{
+  "name": "ts-node-pattern-settings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eliasfernandescout/ts-node-pattern-settings.git",
+  "author": "elias fernandes <eliasfernandescout@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
